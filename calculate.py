@@ -14,5 +14,5 @@ while(True):
         answer = answer.split('+')
         result = int(answer[0]) + int(answer[1])
 
-
+    print("Привет земляне")
     print(result)
